@@ -1,0 +1,5 @@
+# Samsung TV - Core Services (No Ads/Tracking)
+config.samsungcloud.com
+ocsp.samsungcloud.com
+osb-apps.samsungqbe.com
+www.samsung.com

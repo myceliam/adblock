@@ -1,0 +1,11 @@
+# EZVIZ - Core Functionality
+cm.ezvizlife.com
+cloud-eu.ezvizlife.com
+d1.ezvizcloud.net
+push.ezvizlife.com
+
+# Tapo - Core IoT Functionality
+devs.tplinkcloud.com
+iot.tplinknbu.com
+time1.google.com
+n-wap.tplinkcloud.com
